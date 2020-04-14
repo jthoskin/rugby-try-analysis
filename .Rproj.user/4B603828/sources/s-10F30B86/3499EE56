@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586826838483.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3499EE56",
+    "lastKnownWriteTime" : 1586827047,
+    "last_content_update" : 1586827047033,
+    "path" : "~/Documents/Repos/rugby-try-analysis/rugby-try-analysis-functions.R",
+    "project_path" : "rugby-try-analysis-functions.R",
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
